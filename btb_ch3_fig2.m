@@ -414,4 +414,5 @@ export_fig 'ch3_fig2' -eps -q101 -painters
 %% Safe workspace management 
 keep Now
 load([Now,'.mat'])
+delete([Now,'.mat'])
 clear Now

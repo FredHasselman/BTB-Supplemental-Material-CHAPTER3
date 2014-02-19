@@ -499,4 +499,5 @@ export_fig 'ch3_fig3' -eps -q101 -painters
 
 keep Now
 load([Now,'.mat'])
+delete([Now,'.mat'])
 clear Now
