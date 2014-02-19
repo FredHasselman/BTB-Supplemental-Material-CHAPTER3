@@ -23,7 +23,7 @@
 % Affiliations: <http://www.ru.nl/bsi _Behavioural Science Institute_> -
 % <http://www.ru.nl _Radboud University Nijmegen_>
 %
-% Please quote if you use this code:
+% Please cite if you use this code:
 %
 % |Hasselman, F., (2014). Beyond The Boundary - 3rd Chapter: Supplemental Materials. 
 %  Retrieved from Open Science Framework, osf.io/g396c|
