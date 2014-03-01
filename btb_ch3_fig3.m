@@ -8,7 +8,7 @@
 %
 % It is possible your monitor size will influence figure legibility.
 %
-%% Toolboxes / Scripts used
+%% Data / Toolboxes / Scripts, etc. that need to be on the MATLAB PATH
 %
 % * maximize.m - Bill Finger
 % * export_fig - Oliver Woodfort (<http://sites.google.com/site/oliverwoodford/software/export_fig>)
